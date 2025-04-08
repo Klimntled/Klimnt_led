@@ -1,0 +1,6 @@
+name: PaperZ
+version: 1.0
+description: Allows players to write notes on paper.
+author: Klimnt_led
+api-version: 1.21
+main: com.example.paperz.PaperZ
